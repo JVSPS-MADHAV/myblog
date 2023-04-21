@@ -78,7 +78,6 @@
     color:black;
     background-color: white;
 }
-.My apps img{
-    
-    
+.animations{
+ animation:animate 6s linear infinite;
 }
