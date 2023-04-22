@@ -37,6 +37,7 @@
     width:80vw;
     margin:144px auto;
     display:inline-flex;
+    flex-direction:column;
     justify-content: space-around;
 }
 .myInfo{
