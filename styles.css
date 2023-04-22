@@ -39,7 +39,7 @@
     display:inline-flex;
     flex-direction:row;
     justify-content: space-around;
-    flex-wrap:wrap;
+    
 }
 .myInfo{
     justify-content: center;
