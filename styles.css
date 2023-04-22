@@ -71,8 +71,13 @@
     background-color:black;
     font-weight: bold;
     font-size:13px;
-    margin:0 3px;
+    margin:0;
     cursor:pointer;
+    top:50%;
+    position:absolute;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+
 }
 .buttons button:hover{
     color:black;
