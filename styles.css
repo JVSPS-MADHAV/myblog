@@ -65,19 +65,13 @@
     margin-top: 34px;
 }
 .buttons button{
-    padding: 2px;
-    border-radius:3px;
-    color:white;
-    background-color:black;
-    font-weight: bold;
-    font-size:13px;
-    margin:0;
-    cursor:pointer;
-    top:50%;
-    position:absolute;
+    margin: 0;
+    position: absolute;
+    top: 50%;
     left: 50%;
    -ms-transform: translate(-50%, -50%);
-   transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    cursor:pointer;
 
 
 }
