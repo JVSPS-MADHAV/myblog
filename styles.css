@@ -79,5 +79,8 @@
     background-color: white;
 }
 .animations{
- animation:animate 6s linear infinite;
+  white-space: nowrap;
+  position: absolute;
+  -webkit-animation:mymove 8s linear infinite;
+   animation:mymove 8s linear infinite alternate;
 }
